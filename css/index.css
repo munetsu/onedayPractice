@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+.text0 {
+    color: red;
+}
+
+.topimg {
+    width: 99%;
+    height: 70vh;
+    object-fit: cover;
+    position: absolute;
+}
+
+.fas {
+    color: #f7f7f7;
+}
+
+.fa-angle-left {
+    position: relative;
+    top: 30vh;
+    left: 1vw;
+}
+
+.fa-angle-right {
+    position: relative;
+    top: 30vh;
+    left: 90vw;
+}
+
+.next {
+    position: relative;
+    top: 60vh;
+}
+
+.title {
+    text-align: center;
+    background-color: gray;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.img {
+    width: 44vw;
+    height: 44vw;
+    object-fit: cover;
+    margin: 2vw;
+    border-radius: 50vw;
+}
